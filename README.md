@@ -35,7 +35,7 @@ If you have difficulties with this step, goto https://wbond.net/sublime_packages
 * host = homework.cs.tufts.edu
 * user = [YOUR_UTLN]
 * password = [YOUR PASSWORD]
-* remote_path: "/h/[YOUR_UTLN]/[FOLDER_WITH_YOUR_WORK]",
+* remote_path: "/h/[YOUR_UTLN]/[FOLDER_WITH_YOUR_WORK]"
 
 For the remote path, it's important that you designate a path to a folder containing only
 the subdirectories you want to sync. Otherwise you could be downloading a ton of files.
