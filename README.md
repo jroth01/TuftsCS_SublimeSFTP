@@ -40,20 +40,20 @@ If you have difficulties with this step, goto https://wbond.net/sublime_packages
 For the remote path, it's important that you designate a path to a folder containing only
 the subdirectories you want to sync. Otherwise you could be downloading a ton of files.
 
-Then also configure the following options:
+Then also configure the following options
 
-save_before_upload = true
-upload_on_save = true 
-sync_down_on_open = true
-confirm_sync = false
-extra_list_connections = 4
-preserve_modification_times = true
+- save_before_upload = true
+- upload_on_save = true 
+- sync_down_on_open = true
+- confirm_sync = false
+- extra_list_connections = 4
+- preserve_modification_times = true
 
 For more info about this step goto https://wbond.net/sublime_packages/sftp/sidebar#SublimeSFTP
 
 # Sync files and get to work!
-Right click the folder you created
-Select SFTP/FTP > Download Folder
+- Right click the folder you created
+- Select SFTP/FTP > Download Folder
 
 Now you're ready to get working. Anytime you want to work remotely, just open the
 folder you set up and edit files. Any changes are sync'd as soon as you save. 
