@@ -1,11 +1,11 @@
-﻿#Sublime SFTP
+# Sublime SFTP
 How to set up Sublime with sftp to auto-sync files on your computer with Tufts CS homework servers.
 Works for Mac
 
-#Download sublime 3
+# Download sublime 3
 - Download sublime from https://www.sublimetext.com/3
 
-#Get Package Control for Sublime
+# Get Package Control for Sublime
 
 - Open up your newly installed version of Sublime text
 - Click View > Show Console
@@ -18,7 +18,7 @@ Works for Mac
 
 For manual install instructions for package controll goto https://packagecontrol.io/installation
 
-#Get SFTP Package
+# Get SFTP Package
 - Open up Sublime and hit command + shift + p
 - In the window that appears, type 'Package Control: Install Package' and hit enter. The window will change to display a list of packages.
 - Type SFTP and click on the first package that appears with the same name. Follow any prompts to
